@@ -1,4 +1,4 @@
-# Yukesh-Chandran
+# About Myself:
 
 
 <h1 align="center">
@@ -7,7 +7,7 @@
  
  
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineer;Certified+Backend+Developer;C-Programmer;Keep%20it%20simple%20,efficient&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineer;Competitive+Programmer;good+at+problem+solving;Keep%20it%20simple%20,efficient&center=true&width=500&height=50"></a>
 </p>
  
  
@@ -88,4 +88,4 @@
 ----
 Credits: [Yukesh-Chandran](https://github.com/Yukesh-Chandran)
 
-![phuocantd snake gif](https://media0.giphy.com/media/l1KtXmfi3EnjM5zpK/giphy.gif)
+![phuocantd snake gif](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e7d67941992b92550a274b3b991f2f6e4c270e84&rid=giphy.gif&ct=g)
