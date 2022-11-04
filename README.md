@@ -88,4 +88,4 @@
 ----
 Credits: [Yukesh-Chandran](https://github.com/Yukesh-Chandran)
 
-![phuocantd snake gif](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e7d67941992b92550a274b3b991f2f6e4c270e84&rid=giphy.gif&ct=g)
+<img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
